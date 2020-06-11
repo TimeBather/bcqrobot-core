@@ -1,0 +1,21 @@
+{
+    "name": "xieyi1393/bcqrobot-core",
+    "description": "The core module for BCQRobot",
+    "type": "library",
+    "homepage": "https://bcqrobot.bcsite.cn",
+    "require": {
+        "lizhibin/php-mcrypt": "dev-master",
+        "symfony/event-dispatcher": "^4.4",
+        "symfony/yaml": "^4.4",
+        "symfony/translation": "^4.4",
+        "symfony/config": "^4.4",
+        "workerman/workerman": "^4.0",
+        "catfan/medoo": "^1.7"
+    },
+    "authors": [
+        {
+            "name": "xieyi1393",
+            "email": "xieyi@cnitai.com"
+        }
+    ]
+}
