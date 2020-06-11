@@ -3,6 +3,7 @@
     "description": "The core module for BCQRobot",
     "type": "library",
     "homepage": "https://bcqrobot.bcsite.cn",
+    "minimum-stability":"dev",
     "require": {
         "lizhibin/php-mcrypt": "dev-master",
         "symfony/event-dispatcher": "^4.4",
